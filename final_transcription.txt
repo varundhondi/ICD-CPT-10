@@ -1,0 +1,18 @@
+[0.0s - 4.0s] (SPEAKER_00): Good morning, please have a seat here. What's the problem?
+[4.0s - 6.0s] (SPEAKER_00): I have a terrible stomach ache.
+[6.0s - 8.0s] (SPEAKER_00): Do you have diarrhea?
+[8.0s - 9.0s] (SPEAKER_00): Yes I do.
+[9.0s - 11.0s] (SPEAKER_00): Do you have any other symptoms?
+[11.0s - 12.0s] (SPEAKER_00): Yes I feel sick.
+[12.0s - 14.0s] (SPEAKER_00): You mean you feel nauseous?
+[14.0s - 18.0s] (SPEAKER_00): That's right, I feel like vomiting and right now I feel dizzy too.
+[18.0s - 20.0s] (SPEAKER_00): When did the symptoms start?
+[20.0s - 24.0s] (SPEAKER_00): This morning. Yesterday evening I ate something raw.
+[24.0s - 28.0s] (SPEAKER_00): Alright, please take off your clothes to the waist and lie down there.
+[28.0s - 30.0s] (SPEAKER_00): Just tell me if it hurts when I do this.
+[30.0s - 32.0s] (SPEAKER_00): It doesn't hurt.
+[32.0s - 35.0s] (SPEAKER_00): Ouch! It hurts there.
+[35.0s - 41.0s] (SPEAKER_00): Okay, let's hope it's just indigestion but we'll need to run some diagnostic tests to be sure.
+[41.0s - 45.0s] (SPEAKER_00): We'll run a blood test and we'll also need a urine sample.
+[45.0s - 47.0s] (SPEAKER_00): Can you give me something for the time being?
+[47.0s - 51.0s] (SPEAKER_00): Yes, I'll give you a prescription for indigestion tablets.
