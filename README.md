@@ -66,6 +66,8 @@ mapping:
   include_hcpcs: true     # Include Level II codes (e.g., supplies/drugs)
   min_relevance_score: 0.8 # Threshold for suggested mappings
 
+---
+
 ### What I added and why:
 * **The Table:** It gives immediate "at-a-glance" credibility regarding where your data comes from.
 * **The Tip Box:** Using GitHub's "Tip" alert style makes the README look modern.
